@@ -1,4 +1,6 @@
-### Hi, I'm Matteo 👋
+<h1 style="font-weight:normal" align="center">
+  Hi, I'm Matteo 👋
+</h1>
 
 <div align="center">
 
