@@ -10,12 +10,18 @@
 
   <br>
   
-  I study Politics, Economics and Philosophy at University College London (UCL) with a specialization in Social Data Science. Currently in a year abroad Washington DC, at the George Washington University where I am taking classes of data mining, data vizualization and data analytics for International Relations. 
+  I study Politics, Economics and Philosophy at University College London (UCL) with a specialization in Social Data Science. I am passionate about research and absolutely adore the mix of quantitative methods and humaninities subjects that my degree has to offer. 
   
   <br>
   
-  I work with Laila Sorurbakhsh, PhD, on a quantitative study of interest group behaviour in the face of policy risk using R. I am also developing a RShiny app to build an interactive map of Indian election results, in collaboration with Emmanuel Teitelbaum, PhD. 
+  Currently in a year abroad in  Washington DC, at the George Washington University. I am taking classes of data mining, data vizualization and data analytics for International Relations. I work with Laila Sorurbakhsh, PhD, on a quantitative study of interest group behaviour in the face of policy risk. I am also developing a RShiny app to build an interactive map of Indian election results, in collaboration with Emmanuel Teitelbaum, PhD.
   
+  <br>
   
+  On this GitHub, expect to see the evolution of these projects, alongside other personal undertakings like the #TidyTuesday challenge.
+  
+  <br>
+  
+  - 💻: **Coding**: R, Python, Shiny
   
 </div>
