@@ -10,7 +10,7 @@
 
   <br>
   
-  I study Politics, Economics and Philosophy at University College London (UCL) with a specialization in Social Data Science. I am passionate about research and absolutely adore the mix of quantitative methods and humaninities subjects that my degree has to offer. 
+  I study Politics, Economics and Philosophy at University College London (UCL) with a specialization in Social Data Science. I am passionate about research and absolutely adore the mix of quantitative methods and humaninities subjects that my degree has to offer. I had the opportunity to work with natural language processing, spatial analysis, regression and even time-series analysis. 
   
   <br>
   
