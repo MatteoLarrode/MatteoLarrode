@@ -22,6 +22,6 @@
   
   <br>
   
-  - 💻: **Coding**: R, Python, Shiny
+  💻: **Coding**: R, Python, Shiny
   
 </div>
