@@ -18,7 +18,7 @@
   
   <br>
   
-  On this GitHub, expect to see the evolution of these projects, alongside other personal undertakings like the #TidyTuesday challenge.
+  On this GitHub, expect to see the evolution of these projects, alongside other personal undertakings such as the #TidyTuesday challenge.
   
   <br>
   
