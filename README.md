@@ -18,9 +18,7 @@
     
   <br>
   
-  Browse the code on my page to learn more!
-  On this GitHub, expect to see my evolution as projects, alongside other side projects such as the #TidyTuesday challenge.
-  
+  Browse the code on my page, or visit my [website](https://matteolarrode.github.io/matteolarrodecom/) to learn more!  
   <br>
   
   💻: **Coding**: R, Python, Shiny, Tableau
