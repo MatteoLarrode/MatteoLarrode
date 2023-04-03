@@ -10,20 +10,19 @@
 
   <br>
   
-  I’m Matteo Larrode, Volunteer Data Scientist at [L’Equipage Solidaire](https://delivraide.org), a French non-profit that delivers food and hygenic supplies to students in need at their home, for free. I believe that data can be a powerful tool for positive change, and I am committed to using my skills to help make a difference. I use a variety of tools including Tableau and RShiny to reach this objective, and also enjoy building side projects like this shiny app mapping election results in India, in collaboration with Emmanuel Teitelbaum, PhD.
+  I’m Matteo Larrode, Volunteer Data Scientist at [L’Equipage Solidaire](https://delivraide.org), a French non-profit that delivers food and hygenic supplies to students in need at their home, for free. I believe that data can be a powerful tool for positive change, and I am committed to using my skills to help make a difference.
   
-  I study Politics, Economics and Philosophy at University College London (UCL) with a specialization in Social Data Science. I am passionate about research and absolutely adore the mix of quantitative methods and humanities subjects that my degree has to offer. I had the opportunity to work with natural language processing, spatial analysis, regression and even time-series analysis. 
+  I study Politics, Economics and Philosophy at University College London (UCL) with a specialization in Social Data Science. I am passionate about research and I love the mix of quantitative methods and social science questions my degree has to offer. Currently in a year abroad in Washington DC, at the George Washington University. I am taking classes of data mining, data vizualization and data analytics for International Relations. I work with Laila Sorurbakhsh, PhD, on a quantitative study of interest group behaviour in the face of policy risk. I am also developing a [RShiny app](https://matteolarrode.shinyapps.io/mapelectionsindia/?_ga=2.69934096.1295429016.1680480062-1674700938.1679507361) mapping election results in India, in collaboration with Emmanuel Teitelbaum, PhD.
+  
+ During my activity as a volunteer data scientist, in academia, and through other side-projects like the [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) challenge, I had the opportunity to gain experience in natural language processing, spatial analysis, regression and time-series analysis, in R, Python and Tableau. 
+    
+  <br>
+  
+  Browse the code on my page to learn more!
+  On this GitHub, expect to see my evolution as projects, alongside other side projects such as the #TidyTuesday challenge.
   
   <br>
   
-  Currently in a year abroad in  Washington DC, at the George Washington University. I am taking classes of data mining, data vizualization and data analytics for International Relations. I work with Laila Sorurbakhsh, PhD, on a quantitative study of interest group behaviour in the face of policy risk. I am also developing a RShiny app to build an interactive map of Indian election results, in collaboration with Emmanuel Teitelbaum, PhD.
-  
-  <br>
-  
-  On this GitHub, expect to see the evolution of these projects, alongside other personal undertakings such as the #TidyTuesday challenge.
-  
-  <br>
-  
-  💻: **Coding**: R, Python, Shiny
+  💻: **Coding**: R, Python, Shiny, Tableau
   
 </div>
