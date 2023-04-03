@@ -10,6 +10,8 @@
 
   <br>
   
+  I’m Matteo Larrode, Volunteer Data Scientist at [L’Equipage Solidaire](https://delivraide.org), a French non-profit that delivers food and hygenic supplies to students in need at their home, for free. I believe that data can be a powerful tool for positive change, and I am committed to using my skills to help make a difference. I use a variety of tools including Tableau and RShiny to reach this objective, and also enjoy building side projects like this shiny app mapping election results in India, in collaboration with Emmanuel Teitelbaum, PhD.
+  
   I study Politics, Economics and Philosophy at University College London (UCL) with a specialization in Social Data Science. I am passionate about research and absolutely adore the mix of quantitative methods and humanities subjects that my degree has to offer. I had the opportunity to work with natural language processing, spatial analysis, regression and even time-series analysis. 
   
   <br>
