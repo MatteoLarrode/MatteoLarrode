@@ -10,7 +10,7 @@
 
   <br>
   
-  I’m Matteo Larrode, Volunteer Data Scientist at [L’Equipage Solidaire](https://delivraide.org), a French non-profit that delivers food and hygenic supplies to students in need at their home, for free. I believe that data can be a powerful tool for positive change, and I am committed to using my skills to help make a difference.
+  I’m Matteo Larrode, Volunteer Data Scientist at [L’Equipage Solidaire](https://delivraide.org), a French non-profit that delivers food and hygenic supplies to students in need at their home, for free. In this role, I had the opportunity to build my first package, [packageSolidaire](https://matteolarrode.github.io/packageSolidaire), a companion to pre-process our data, and to plot and map deliveries using the visual identity of the charity. I believe that data can be a powerful tool for positive change, and I am committed to using my skills to help make a difference. 
   
   I study Politics, Economics and Philosophy at University College London (UCL) with a specialization in Social Data Science. I am passionate about research and I love the mix of quantitative methods and social science questions my degree has to offer. Currently in a year abroad in Washington DC, at the George Washington University, I am taking classes in data mining, data vizualization and data analytics for International Relations. I also work with Dr. Laila Sorurbakhsh, on a quantitative study of interest group behaviour in the face of policy risk. As a side project, Dr. Emmanuel Teitelbaum and I are developing a [RShiny app](https://matteolarrode.shinyapps.io/mapelectionsindia/?_ga=2.69934096.1295429016.1680480062-1674700938.1679507361) mapping election results in India.
   
@@ -18,7 +18,7 @@
     
   <br>
   
-  Browse the code on my page, or visit my [website](https://matteolarrode.github.io/matteolarrodecom/) to learn more!  
+  Browse the code on my page, or visit my [website](https://matteolarrode.github.io) to learn more!  
   <br>
   
   💻: **Coding**: R, Python, Shiny, Tableau
